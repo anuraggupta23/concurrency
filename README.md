@@ -1,2 +1,2 @@
 # concurrency
-My experiments with Java Concurrency
+My experiments with concurrency
